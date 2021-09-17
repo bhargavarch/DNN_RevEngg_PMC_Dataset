@@ -9,3 +9,17 @@ https://doi.org/10.1145/3486001.3486224 (to be available soon)
 
 The repository contains Jupyter Notebooks, please go through them to understand how to access the dataset.
 The "/data" directory contains all the traces in various formats.
+
+If you use this dataset in your research, please cite our paper: 
+
+Dandpati Kumar Bhargav Achary, R Sai Chandra Teja, Sparsh Mittal, Biswabandan Panda, C Krishna Mohan (2021)  Reverse Engineering Layer-profile of Deep Neural Networks using Hardware Performance Counters In: First International Conference on AI-ML-Systems (AIMLSystems '21)  Bengaluru, India:  ACM
+
+@inproceedings {ref142,
+title            = "Reverse Engineering Layer-profile of Deep Neural Networks using Hardware Performance Counters",
+year             = "2021",
+author           = "Dandpati Kumar Bhargav Achary and R Sai Chandra Teja and Sparsh Mittal and Biswabandan Panda and C Krishna Mohan",
+booktitle        = " First International Conference on AI-ML-Systems (AIMLSystems)", 
+address          = "Bengaluru, India",
+publisher        = "ACM",
+}
+
