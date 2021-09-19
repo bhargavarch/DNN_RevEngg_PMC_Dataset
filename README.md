@@ -1,7 +1,7 @@
 # DNN_RevEngg_PMC_Dataset
 
 This repository contains the hardware performance monitoring counters' traces of popular DNN architectures.
-The traces are collected with the use of a popular library (PAPI - https://icl.utk.edu/papi/). We have used these traces to arrive at several results and conclusion in our paper titled "Inferring DNN layer-types through a hardware performance counters based side channel attack."
+The traces are collected with the use of a popular library (PAPI - https://icl.utk.edu/papi/). We have used these traces to arrive at several results and conclusion in our paper titled "Inferring DNN layer-types through a Hardware Performance Counters based Side Channel Attack."
 
 Please feel free to use this dataset for experimentation and exploration of DNN workloads.
 You can access the full paper at the following link:
