@@ -12,7 +12,8 @@ The "/data" directory contains all the traces in various formats.
 
 If you use this dataset in your research, please cite our paper: 
 
-Dandpati Kumar Bhargav Achary, R Sai Chandra Teja, Sparsh Mittal, Biswabandan Panda, C Krishna Mohan (2021)  Reverse Engineering Layer-profile of Deep Neural Networks using Hardware Performance Counters In: First International Conference on AI-ML-Systems (AIMLSystems '21)  Bengaluru, India:  ACM
+Dandpati Kumar Bhargav Achary, R Sai Chandra Teja, Sparsh Mittal, Biswabandan Panda, C Krishna Mohan (2021)  Inferring DNN layer-types through a Hardware
+Performance Counters based Side Channel Attack In: First International Conference on AI-ML-Systems (AIMLSystems '21)  Bengaluru, India:  ACM
 
 @inproceedings {ref142,
 title            = "Inferring DNN layer-types through a Hardware Performance Counters based Side Channel Attack",
